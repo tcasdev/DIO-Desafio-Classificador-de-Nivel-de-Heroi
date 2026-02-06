@@ -1,6 +1,8 @@
+// Declaração das Variáveis
 let heroiNome = "Ryuu"
 let heroiXP = 5678
 
+// Estruturas de Decisão + Saída
 if (heroiXP < 1000) {
     console.log(`O Herói de nome ${heroiNome} está no nível de Ferro`)
 }
