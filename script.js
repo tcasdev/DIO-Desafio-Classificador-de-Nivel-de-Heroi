@@ -1,5 +1,5 @@
 // Declaração das Variáveis
-let heroiNome = "Ryuu"
+let heroiNome = "QueenOfAnxietyBr"
 let heroiXP = 5678
 
 // Estruturas de Decisão + Saída
